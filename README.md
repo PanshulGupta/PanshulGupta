@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I know how to play 3 instruments and I also know to speak 5 different languages!
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![PanshulGupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panshul&show_icons=true&theme=radical)
