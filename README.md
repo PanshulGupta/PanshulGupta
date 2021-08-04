@@ -10,6 +10,6 @@
 
 >
 ![PanshulGupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panshul&show_icons=false&theme=extra_compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanshulGupta&layout=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanshulGupta&layout=radical)[]]
 
 
